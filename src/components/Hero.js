@@ -2,7 +2,7 @@ import React from 'react';
 
 function Hero() {
     return (
-        <img className='item' src='Hero.gif'/>
+        <img className='item' alt="hero" src='Hero.gif'/>
     );
 }
 
